@@ -1,0 +1,603 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount,Customer_Type,Sales
+ORD0001,2025-03-15,West,Home & Kitchen,Cookware Set,4,5186.94,0.1,Returning,18672.98
+ORD0002,2025-02-16,West,Home & Kitchen,Mixer,4,2839.72,0.05,Returning,10790.94
+ORD0003,2025-11-21,West,Home & Kitchen,Cookware Set,4,1556.62,0.1,Returning,5603.83
+ORD0004,2025-05-10,West,Home & Kitchen,Mixer,5,5831.51,0.15,New,24783.92
+ORD0005,2025-12-03,West,Clothing,Jeans,1,793.73,0.1,New,714.36
+ORD0006,2025-06-21,South,Furniture,Bookshelf,1,5384.16,0.0,New,5384.16
+ORD0007,2025-02-05,West,Home & Kitchen,Water Bottle,4,5037.9,0.1,Returning,18136.44
+ORD0008,2025-04-16,North,Furniture,Office Chair,7,15491.16,0.0,New,108438.12
+ORD0009,2025-07-22,East,Home & Kitchen,Water Bottle,5,4304.7,0.1,New,19371.15
+ORD0010,2025-09-01,West,Electronics,Keyboard,4,8902.85,0.1,Returning,32050.26
+ORD0011,2025-05-07,North,Clothing,T-Shirt,4,1272.64,0.0,Returning,5090.56
+ORD0012,2025-03-27,South,Home & Kitchen,Cookware Set,1,585.24,0.0,Returning,585.24
+ORD0013,2025-06-02,,Clothing,Jeans,6,2425.8,0.05,New,13827.06
+ORD0014,2025-09-21,South,Electronics,Monitor,6,8744.29,0.0,New,52465.74
+ORD0015,2025-09-07,South,Home & Kitchen,Cookware Set,4,2440.87,0.0,New,9763.48
+ORD0016,2025-12-18,North,Electronics,Mouse,3,16427.59,0.1,Returning,44354.49
+ORD0017,2025-01-29,West,Home & Kitchen,Mixer,6,2833.83,0.0,Returning,17002.98
+ORD0018,2025-04-22,West,Electronics,Headphones,6,10762.58,0.0,Returning,64575.48
+ORD0019,2025-02-04,North,Home & Kitchen,Cookware Set,4,3857.03,0.1,Returning,13885.31
+ORD0020,2025-06-30,North,Electronics,Mouse,2,6473.61,0.0,Returning,12947.22
+ORD0021,2025-08-12,North,Electronics,Keyboard,7,10794.25,0.0,Returning,75559.75
+ORD0022,2025-10-13,South,Clothing,Jeans,4,564.74,0.05,Returning,2146.01
+ORD0023,2025-07-18,South,Clothing,Jeans,4,1154.32,0.0,New,4617.28
+ORD0024,2025-11-24,North,Home & Kitchen,Cookware Set,1,1056.43,0.1,Returning,950.79
+ORD0025,2025-04-28,West,Furniture,Office Chair,5,16403.39,0.1,New,73815.26
+ORD0026,2025-07-22,West,Electronics,Headphones,1,7179.86,0.15,New,6102.88
+ORD0027,2025-12-28,North,Sports,Football,3,2769.26,0.0,New,8307.78
+ORD0028,2025-12-29,West,Clothing,Jacket,7,3153.37,0.1,Returning,19866.23
+ORD0029,2025-05-30,North,Clothing,Jeans,3,2770.44,0.1,Returning,7480.19
+ORD0030,2025-12-08,West,Furniture,Desk,1,6439.9,0.0,New,6439.9
+ORD0031,2025-04-13,West,Electronics,Keyboard,5,15842.47,0.0,Returning,79212.35
+ORD0032,2025-02-22,North,Clothing,T-Shirt,4,344.6,0.0,Returning,1378.4
+ORD0033,2025-06-02,West,Electronics,Keyboard,4,12741.31,0.1,Returning,45868.72
+ORD0034,2025-02-17,South,Home & Kitchen,Mixer,6,961.58,0.15,New,4904.06
+ORD0035,2025-12-17,North,Clothing,Jeans,5,3357.99,0.0,Returning,16789.95
+ORD0036,2025-02-08,West,Clothing,Jacket,6,749.09,0.05,Returning,4269.81
+ORD0037,2025-11-06,North,Sports,Dumbbells,6,2549.96,0.1,Returning,13769.78
+ORD0038,2025-03-26,West,Home & Kitchen,Mixer,4,3301.93,0.1,Returning,11886.95
+ORD0039,2025-12-18,South,Furniture,Office Chair,3,10230.58,0.1,New,27622.57
+ORD0040,2025-09-30,North,Electronics,Monitor,7,14844.98,0.0,Returning,103914.86
+ORD0041,2025-12-01,North,Electronics,Headphones,6,6137.76,0.0,New,36826.56
+ORD0042,2025-02-12,North,Electronics,Monitor,4,1163.75,0.0,New,4655.0
+ORD0043,2025-12-26,West,Clothing,Jeans,5,1559.62,0.0,Returning,7798.1
+ORD0044,2025-03-08,East,Electronics,Mouse,4,4872.01,0.0,Returning,19488.04
+ORD0045,2025-02-04,North,Electronics,Headphones,3,9808.55,0.0,Returning,29425.65
+ORD0046,2025-11-04,West,Electronics,Monitor,6,16325.63,0.2,Returning,78363.02
+ORD0047,2025-04-28,West,Clothing,Jeans,6,730.57,0.05,Returning,4164.25
+ORD0048,2025-08-22,South,Furniture,Desk,5,6962.5,0.0,Returning,34812.5
+ORD0049,2025-06-08,East,Electronics,Keyboard,3,7101.95,0.0,New,21305.85
+ORD0050,2025-12-01,South,Sports,Football,5,2612.19,0.0,Returning,13060.95
+ORD0051,2025-01-27,East,Home & Kitchen,Mixer,6,3313.15,0.1,New,17891.01
+ORD0052,2025-11-11,North,Home & Kitchen,Mixer,4,1009.59,0.1,Returning,3634.52
+ORD0053,2025-03-03,East,Electronics,Mouse,7,3163.42,0.2,Returning,17715.15
+ORD0054,2025-12-12,North,Home & Kitchen,Water Bottle,7,1706.95,0.1,Returning,10753.78
+ORD0055,2025-09-05,West,Electronics,Headphones,4,10645.8,0.05,Returning,40454.04
+ORD0056,2025-08-07,North,Clothing,Jeans,2,3279.96,0.0,New,6559.92
+ORD0057,2025-09-24,West,Home & Kitchen,Water Bottle,3,4702.35,0.1,Returning,12696.34
+ORD0058,2025-05-13,North,Furniture,Desk,6,7946.02,0.0,Returning,47676.12
+ORD0059,2025-12-13,West,Clothing,Jacket,3,2634.99,0.1,Returning,7114.47
+ORD0060,2025-12-27,North,Furniture,Bookshelf,5,16214.08,0.2,Returning,64856.32
+ORD0061,2025-07-18,South,Clothing,T-Shirt,1,2182.43,0.1,Returning,1964.19
+ORD0062,2025-06-17,West,Furniture,Office Chair,7,10567.44,0.0,Returning,73972.08
+ORD0063,2025-10-11,North,Electronics,Keyboard,7,15922.24,0.0,Returning,111455.68
+ORD0064,2025-08-26,North,Home & Kitchen,Water Bottle,1,770.03,0.15,New,654.53
+ORD0065,2025-04-16,North,Electronics,Monitor,6,4209.11,0.15,New,21466.46
+ORD0066,2025-08-10,West,Electronics,Mouse,6,14585.49,0.0,New,87512.94
+ORD0067,2025-10-27,North,Home & Kitchen,Water Bottle,7,4689.62,0.1,New,29544.61
+ORD0068,2025-07-04,West,Electronics,Monitor,5,13617.24,0.1,New,61277.58
+ORD0069,2025-07-10,East,Home & Kitchen,Mixer,2,1806.86,0.1,New,3252.35
+ORD0070,2025-01-16,North,Clothing,Jacket,1,3129.27,0.1,New,2816.34
+ORD0071,2025-04-03,East,Electronics,Keyboard,7,8687.24,0.1,New,54729.61
+ORD0072,2025-04-20,East,Sports,Football,4,3058.88,0.1,Returning,11011.97
+ORD0073,2025-02-17,North,Electronics,Keyboard,4,7749.39,0.05,New,29447.68
+ORD0074,2025-06-06,South,Furniture,Office Chair,5,14025.24,0.1,Returning,63113.58
+ORD0075,2025-04-20,South,Electronics,Monitor,5,6253.1,0.0,New,31265.5
+ORD0076,2025-07-26,East,Clothing,Jeans,3,2546.41,0.1,New,6875.31
+ORD0077,2025-07-12,South,Home & Kitchen,Cookware Set,4,2730.65,0.1,Returning,9830.34
+ORD0078,2025-12-03,West,Sports,Football,1,2716.71,0.05,New,2580.87
+ORD0079,2025-11-14,North,Home & Kitchen,Cookware Set,4,916.18,0.0,New,3664.72
+ORD0080,2025-03-05,North,Furniture,Bookshelf,4,7934.81,0.1,Returning,28565.32
+ORD0081,2025-09-01,South,Home & Kitchen,Cookware Set,3,1133.27,0.1,Returning,3059.83
+ORD0082,2025-10-09,East,Sports,Yoga Mat,4,1830.42,0.1,Returning,6589.51
+ORD0083,2025-06-20,North,Clothing,Jeans,1,968.98,0.05,Returning,920.53
+ORD0084,2025-07-22,North,Sports,Yoga Mat,7,4259.72,0.2,Returning,23854.43
+ORD0085,2025-06-25,North,Furniture,Office Chair,1,16984.27,0.05,New,16135.06
+ORD0086,2025-01-17,South,Sports,Football,7,1471.12,0.0,Returning,10297.84
+ORD0087,2025-11-08,East,Clothing,T-Shirt,1,1079.74,0.15,Returning,917.78
+ORD0088,2025-01-22,South,Home & Kitchen,Cookware Set,5,2358.0,0.05,Returning,11200.5
+ORD0089,2025-06-07,East,Clothing,Jeans,6,3026.45,0.05,Returning,17250.76
+ORD0090,2025-07-02,South,Furniture,Bookshelf,5,12393.93,0.0,Returning,61969.65
+ORD0091,2025-04-05,West,Clothing,Jeans,2,1384.34,0.0,Returning,2768.68
+ORD0092,2025-08-07,East,Furniture,Office Chair,1,1649.95,0.0,Returning,1649.95
+ORD0093,2025-08-26,East,Sports,Dumbbells,5,2596.53,0.1,Returning,11684.39
+ORD0094,2025-11-13,South,Home & Kitchen,Water Bottle,4,906.1,0.1,Returning,3261.96
+ORD0095,2025-10-27,East,Home & Kitchen,Cookware Set,7,5911.32,0.0,New,41379.24
+ORD0096,2025-01-15,West,Electronics,Mouse,3,14170.3,0.05,Returning,40385.35
+ORD0097,2025-03-23,West,Sports,Yoga Mat,3,4050.94,0.0,Returning,12152.82
+ORD0098,2025-01-14,North,Home & Kitchen,Cookware Set,2,2393.04,0.0,Returning,4786.08
+ORD0099,2025-05-24,,Home & Kitchen,Cookware Set,6,5226.38,0.1,New,28222.45
+ORD0100,2025-11-10,East,Clothing,Jacket,2,314.4,0.05,New,597.36
+ORD0101,2025-06-01,South,Furniture,Bookshelf,7,15268.06,0.0,Returning,106876.42
+ORD0102,2025-08-04,West,Furniture,Bookshelf,5,9637.27,0.0,New,48186.35
+ORD0103,2025-07-14,South,Electronics,Mouse,3,13143.39,0.15,Returning,33515.64
+ORD0104,2025-07-29,East,Electronics,Monitor,1,17958.38,0.1,Returning,16162.54
+ORD0105,2025-01-31,North,Sports,Yoga Mat,4,1018.09,0.05,New,3868.74
+ORD0106,2025-08-20,West,Clothing,T-Shirt,7,1398.54,0.05,Returning,9300.29
+ORD0107,2025-07-24,West,Clothing,Jacket,2,3170.39,0.0,Returning,6340.78
+ORD0108,2025-08-04,North,Home & Kitchen,Mixer,2,4007.28,0.0,New,8014.56
+ORD0109,2025-04-02,West,Electronics,Keyboard,7,5671.85,0.1,Returning,35732.66
+ORD0110,2025-12-30,West,Clothing,Jacket,7,2458.71,0.15,Returning,14629.32
+ORD0111,2025-04-27,South,Electronics,Headphones,4,2552.58,0.1,Returning,9189.29
+ORD0112,2025-12-17,North,Electronics,Monitor,7,2571.65,0.0,New,18001.55
+ORD0113,2025-11-07,South,Clothing,T-Shirt,4,1300.22,0.0,New,5200.88
+ORD0114,2025-03-17,South,Home & Kitchen,Mixer,4,1986.91,0.05,New,7550.26
+ORD0115,2025-04-11,South,Electronics,Keyboard,7,821.21,0.05,Returning,5461.05
+ORD0116,2025-11-04,North,Home & Kitchen,Cookware Set,4,1747.0,0.0,Returning,6988.0
+ORD0117,2025-06-26,South,Home & Kitchen,Cookware Set,2,2151.73,0.15,Returning,3657.94
+ORD0118,2025-01-18,North,Electronics,Headphones,5,3177.13,0.15,New,13502.8
+ORD0119,2025-02-02,East,Electronics,Headphones,1,11466.57,0.0,Returning,11466.57
+ORD0120,2025-11-08,West,Electronics,Mouse,2,11448.85,0.0,Returning,22897.7
+ORD0121,2025-11-28,South,Electronics,Headphones,7,8616.67,0.1,Returning,54285.02
+ORD0122,2025-10-19,South,Furniture,Bookshelf,4,13815.05,0.0,New,55260.2
+ORD0123,2025-09-14,East,Electronics,Monitor,1,6759.43,0.0,Returning,6759.43
+ORD0124,2025-04-26,North,Home & Kitchen,Mixer,6,5367.61,0.1,New,28985.09
+ORD0125,2025-04-07,North,Home & Kitchen,Mixer,2,3166.93,0.2,Returning,5067.09
+ORD0126,2025-02-16,South,Clothing,T-Shirt,3,3171.37,0.15,Returning,8086.99
+ORD0127,2025-05-06,West,Furniture,Bookshelf,1,13688.64,0.0,New,13688.64
+ORD0128,2025-03-26,East,Clothing,Jeans,2,3096.44,0.0,Returning,6192.88
+ORD0129,2025-04-08,West,Furniture,Bookshelf,5,16378.28,0.1,Returning,73702.26
+ORD0130,2025-01-05,South,Clothing,Jacket,7,2847.29,0.05,New,18934.48
+ORD0131,2025-05-12,North,Sports,Football,3,3539.88,0.0,New,10619.64
+ORD0132,2025-11-30,East,Home & Kitchen,Water Bottle,7,1469.85,0.05,Returning,9774.5
+ORD0133,2025-07-14,East,Furniture,Desk,4,16705.19,0.1,New,60138.68
+ORD0134,2025-11-12,North,Sports,Dumbbells,5,4071.25,0.0,Returning,20356.25
+ORD0135,2025-12-06,South,Electronics,Headphones,7,7286.89,0.1,New,45907.41
+ORD0136,2025-08-01,West,Clothing,Jacket,4,1609.25,0.1,Returning,5793.3
+ORD0137,2025-05-02,East,Electronics,Keyboard,3,7578.64,0.0,New,22735.92
+ORD0138,2025-03-30,West,Sports,Yoga Mat,6,855.05,0.1,New,4617.27
+ORD0139,2025-06-15,North,Electronics,Monitor,2,9778.61,0.05,Returning,18579.36
+ORD0140,2025-08-27,North,Sports,Yoga Mat,2,2679.33,0.0,New,5358.66
+ORD0141,2025-08-13,West,Home & Kitchen,Mixer,7,5434.44,0.2,New,30432.86
+ORD0142,2025-04-22,West,Electronics,Monitor,7,10309.85,0.0,Returning,72168.95
+ORD0143,2025-02-08,East,Clothing,Jeans,2,1110.42,0.0,Returning,2220.84
+ORD0144,2025-05-16,West,Furniture,Bookshelf,6,9799.53,0.1,New,52917.46
+ORD0145,2025-05-21,West,Sports,Football,1,4522.16,0.0,New,4522.16
+ORD0146,2025-06-14,West,Furniture,Office Chair,1,6527.81,0.1,Returning,5875.03
+ORD0147,2025-04-19,West,Furniture,Desk,4,6592.33,0.0,Returning,26369.32
+ORD0148,2025-07-08,South,Home & Kitchen,Mixer,3,3071.0,0.05,Returning,8752.35
+ORD0149,2025-11-01,North,Electronics,Keyboard,1,17178.7,0.05,Returning,16319.76
+ORD0150,2025-04-03,West,Electronics,Monitor,2,1316.94,0.0,New,2633.88
+ORD0151,2025-08-30,West,Clothing,T-Shirt,4,1581.44,0.05,Returning,6009.47
+ORD0152,2025-06-21,South,Home & Kitchen,Mixer,3,1129.04,0.15,New,2879.05
+ORD0153,2025-08-21,North,Furniture,Office Chair,6,14265.53,0.1,Returning,77033.86
+ORD0154,2025-08-22,South,Clothing,Jacket,3,307.39,0.2,New,737.74
+ORD0155,2025-07-01,West,Clothing,Jacket,1,787.45,0.1,New,708.7
+ORD0156,2025-06-18,South,Home & Kitchen,Cookware Set,6,4044.72,0.1,Returning,21841.49
+ORD0157,2025-08-02,South,Furniture,Desk,2,15400.93,0.15,Returning,26181.58
+ORD0158,2025-12-29,South,Home & Kitchen,Mixer,2,3305.63,0.1,Returning,5950.13
+ORD0159,2025-02-24,South,Furniture,Bookshelf,6,9764.37,0.1,Returning,52727.6
+ORD0160,2025-08-25,South,Furniture,Bookshelf,2,8518.43,0.05,New,16185.02
+ORD0161,2025-04-22,South,Electronics,Keyboard,5,12074.91,0.1,New,54337.1
+ORD0162,2025-11-11,North,Home & Kitchen,Mixer,7,1668.41,0.1,New,10510.98
+ORD0163,2025-09-28,South,Electronics,Keyboard,2,12405.47,0.15,Returning,21089.3
+ORD0164,2025-08-11,South,Sports,Yoga Mat,5,1573.49,0.1,Returning,7080.7
+ORD0165,2025-09-13,East,Furniture,Desk,5,1976.17,0.05,Returning,9386.81
+ORD0166,2025-11-08,South,Sports,Dumbbells,6,1882.19,0.05,Returning,10728.48
+ORD0167,2025-04-26,West,Furniture,Bookshelf,2,20209.77,0.15,Returning,34356.61
+ORD0168,2025-10-06,North,Home & Kitchen,Water Bottle,2,3013.49,0.05,Returning,5725.63
+ORD0169,2025-04-15,West,Furniture,Office Chair,2,13512.21,0.05,Returning,25673.2
+ORD0170,2025-01-03,West,Electronics,Headphones,3,6581.44,0.1,New,17769.89
+ORD0171,2025-04-15,North,Home & Kitchen,Cookware Set,1,2492.86,0.2,Returning,1994.29
+ORD0172,2025-12-07,North,Clothing,T-Shirt,7,3438.63,0.0,Returning,24070.41
+ORD0173,2025-09-17,North,Furniture,Desk,7,15100.79,0.0,Returning,105705.53
+ORD0174,2025-07-02,West,Clothing,Jacket,2,2495.72,0.1,Returning,4492.3
+ORD0175,2025-04-27,South,Clothing,T-Shirt,1,2629.1,0.2,Returning,2103.28
+ORD0176,2025-09-03,West,Electronics,Keyboard,3,6877.41,0.1,Returning,18569.01
+ORD0177,2025-03-03,West,Furniture,Desk,3,16850.83,0.15,New,42969.62
+ORD0178,2025-02-05,North,Sports,Football,7,1106.22,0.05,New,7356.36
+ORD0179,2025-05-04,West,Electronics,Headphones,4,14123.53,0.0,New,56494.12
+ORD0180,2025-11-11,West,Electronics,Mouse,1,14957.74,0.05,New,14209.85
+ORD0181,2025-03-15,West,Furniture,Desk,6,6777.77,0.1,Returning,36599.96
+ORD0182,2025-03-22,North,Furniture,Desk,3,5771.78,0.1,New,15583.81
+ORD0183,2025-09-13,North,Electronics,Headphones,2,14957.45,0.05,Returning,28419.16
+ORD0184,2025-05-24,West,Clothing,Jacket,7,3100.27,0.2,New,17361.51
+ORD0185,2025-01-03,East,Electronics,Keyboard,5,5772.24,0.1,Returning,25975.08
+ORD0186,2025-01-10,South,Home & Kitchen,Cookware Set,4,534.39,0.1,New,1923.8
+ORD0187,2025-02-27,North,Furniture,Office Chair,6,18445.54,0.1,Returning,99605.92
+ORD0188,2025-07-25,North,Furniture,Desk,4,15371.37,0.0,New,61485.48
+ORD0189,2025-02-04,South,Sports,Dumbbells,5,1191.02,0.15,Returning,5061.84
+ORD0190,2025-03-20,East,Electronics,Keyboard,3,10875.27,0.0,New,32625.81
+ORD0191,2025-01-29,West,Electronics,Keyboard,2,8071.03,0.0,New,16142.06
+ORD0192,2025-01-21,East,Furniture,Office Chair,2,8826.08,0.0,New,17652.16
+ORD0193,2025-01-19,East,Sports,Yoga Mat,7,859.22,0.0,New,6014.54
+ORD0194,2025-10-03,West,Home & Kitchen,Mixer,7,4963.9,0.05,New,33009.94
+ORD0195,2025-12-01,North,Furniture,Office Chair,3,20947.23,0.1,Returning,56557.52
+ORD0196,2025-06-30,South,Clothing,Jacket,4,3406.83,0.05,Returning,12945.95
+ORD0197,2025-10-19,East,Electronics,Mouse,3,4123.18,0.0,New,12369.54
+ORD0198,2025-06-07,West,Furniture,Bookshelf,4,14479.56,0.15,Returning,49230.5
+ORD0199,2025-04-17,East,Furniture,Office Chair,4,13142.65,0.05,New,49942.07
+ORD0200,2025-05-19,East,Furniture,Desk,1,3440.12,0.0,Returning,3440.12
+ORD0201,2025-07-12,West,Electronics,Monitor,4,13795.28,0.0,Returning,55181.12
+ORD0202,2025-01-20,West,Home & Kitchen,Water Bottle,7,5686.74,0.05,Returning,37816.82
+ORD0203,2025-01-31,East,Electronics,Mouse,1,12503.2,0.1,Returning,11252.88
+ORD0204,2025-06-20,South,Clothing,T-Shirt,2,317.51,0.1,Returning,571.52
+ORD0205,2025-06-08,South,Furniture,Bookshelf,4,7042.01,0.0,Returning,28168.04
+ORD0206,2025-12-18,East,Sports,Dumbbells,1,4335.95,0.0,Returning,4335.95
+ORD0207,2025-03-31,West,Furniture,Office Chair,1,18124.74,0.05,Returning,17218.5
+ORD0208,2025-05-16,West,Furniture,Desk,7,10061.2,0.0,Returning,70428.4
+ORD0209,2025-12-10,South,Furniture,Bookshelf,3,19423.85,0.0,Returning,58271.55
+ORD0210,2025-09-01,North,Electronics,Mouse,5,7279.82,0.1,Returning,32759.19
+ORD0211,2025-06-29,North,Clothing,Jacket,2,746.8,0.0,Returning,1493.6
+ORD0212,2025-10-23,,Furniture,Desk,2,21475.55,0.0,Returning,42951.1
+ORD0213,2025-03-16,West,Clothing,Jeans,4,1679.44,0.0,Returning,6717.76
+ORD0214,2025-09-15,North,Electronics,Mouse,2,5990.36,0.15,Returning,10183.61
+ORD0215,2025-12-08,South,Home & Kitchen,Water Bottle,1,593.99,0.15,Returning,504.89
+ORD0216,2025-05-25,West,Clothing,T-Shirt,5,1724.05,0.0,New,8620.25
+ORD0217,2025-09-03,East,Electronics,Mouse,3,17387.22,0.0,Returning,52161.66
+ORD0218,2025-11-04,West,Sports,Dumbbells,5,4739.56,0.0,Returning,23697.8
+ORD0219,2025-10-06,South,Clothing,Jacket,7,3409.77,0.1,Returning,21481.55
+ORD0220,2025-05-23,West,Furniture,Desk,2,3339.94,0.0,Returning,6679.88
+ORD0221,2025-11-11,West,Sports,Dumbbells,5,561.81,0.0,New,2809.05
+ORD0222,2025-12-08,North,Clothing,T-Shirt,5,3427.02,0.0,New,17135.1
+ORD0223,2025-04-06,East,Electronics,Headphones,2,10579.4,0.15,New,17984.98
+ORD0224,2025-08-14,South,Home & Kitchen,Cookware Set,7,5218.79,0.15,New,31051.8
+ORD0225,2025-04-29,South,Electronics,Keyboard,4,17065.93,0.05,New,64850.53
+ORD0226,2025-08-27,North,Furniture,Bookshelf,2,15293.49,0.05,Returning,29057.63
+ORD0227,2025-08-03,South,Electronics,Mouse,7,4031.94,0.0,Returning,28223.58
+ORD0228,2025-12-30,South,Clothing,Jeans,2,1856.1,0.05,New,3526.59
+ORD0229,2025-08-07,South,Clothing,T-Shirt,2,2340.35,0.0,Returning,4680.7
+ORD0230,2025-01-23,West,Clothing,Jacket,6,2931.08,0.1,Returning,15827.83
+ORD0231,2025-06-08,East,Clothing,T-Shirt,6,2319.41,0.0,Returning,13916.46
+ORD0232,2025-06-05,East,Furniture,Desk,5,18148.52,0.05,Returning,86205.47
+ORD0233,2025-05-17,East,Electronics,Mouse,6,3055.87,0.0,Returning,18335.22
+ORD0234,2025-02-10,North,Furniture,Desk,4,21098.96,0.0,New,84395.84
+ORD0235,2025-11-02,South,Clothing,T-Shirt,7,2733.75,0.1,Returning,17222.62
+ORD0236,2025-04-10,East,Electronics,Headphones,3,6103.33,0.0,Returning,18309.99
+ORD0237,2025-02-09,South,Electronics,Keyboard,4,14254.03,0.1,Returning,51314.51
+ORD0238,2025-05-12,South,Electronics,Monitor,3,3833.32,0.05,New,10924.96
+ORD0239,2025-01-06,South,Home & Kitchen,Mixer,3,1818.62,0.0,New,5455.86
+ORD0240,2025-10-06,East,Electronics,Keyboard,4,16796.06,0.05,Returning,63825.03
+ORD0241,2025-07-04,South,Sports,Football,5,4492.99,0.15,New,19095.21
+ORD0242,2025-06-24,East,Electronics,Monitor,5,9302.21,0.05,Returning,44185.5
+ORD0243,2025-01-26,West,Home & Kitchen,Water Bottle,1,1544.77,0.1,Returning,1390.29
+ORD0244,2025-04-25,East,Sports,Dumbbells,2,2247.64,0.0,Returning,4495.28
+ORD0245,2025-03-23,North,Furniture,Bookshelf,4,7574.14,0.0,Returning,30296.56
+ORD0246,2025-11-01,North,Furniture,Office Chair,1,15467.25,0.0,Returning,15467.25
+ORD0247,2025-12-31,North,Furniture,Bookshelf,7,4371.14,0.1,New,27538.18
+ORD0248,2025-04-07,North,Sports,Dumbbells,4,2377.8,0.05,Returning,9035.64
+ORD0249,2025-09-04,East,Home & Kitchen,Cookware Set,3,5051.97,0.0,Returning,15155.91
+ORD0250,2025-03-17,North,Electronics,Headphones,2,9725.33,0.15,Returning,16533.06
+ORD0251,2025-07-25,South,Home & Kitchen,Mixer,3,1335.81,0.0,Returning,4007.43
+ORD0252,2025-09-09,South,Clothing,Jeans,6,3445.56,0.05,Returning,19639.69
+ORD0253,2025-06-01,North,Electronics,Monitor,6,13778.66,0.0,New,82671.96
+ORD0254,2025-04-16,West,Clothing,Jeans,2,2847.39,0.15,New,4840.56
+ORD0255,2025-07-07,North,Furniture,Office Chair,2,4268.28,0.15,Returning,7256.08
+ORD0256,2025-01-13,West,Furniture,Desk,2,4819.8,0.1,New,8675.64
+ORD0257,2025-07-10,West,Sports,Football,6,4302.55,0.0,New,25815.3
+ORD0258,2025-10-05,West,Clothing,T-Shirt,4,710.54,0.1,Returning,2557.94
+ORD0259,2025-01-17,East,Clothing,T-Shirt,7,1987.86,0.1,New,12523.52
+ORD0260,2025-03-28,East,Electronics,Monitor,7,9449.45,0.05,Returning,62838.84
+ORD0261,2025-04-16,South,Home & Kitchen,Water Bottle,7,1668.67,0.1,New,10512.62
+ORD0262,2025-12-17,West,Home & Kitchen,Water Bottle,4,4400.56,0.15,New,14961.9
+ORD0263,2025-08-07,West,Clothing,Jeans,4,3457.21,0.0,New,13828.84
+ORD0264,2025-05-20,South,Home & Kitchen,Cookware Set,5,5884.88,0.15,Returning,25010.74
+ORD0265,2025-12-13,North,Furniture,Office Chair,5,14998.86,0.15,Returning,63745.16
+ORD0266,2025-06-30,West,Clothing,T-Shirt,5,476.67,0.0,New,2383.35
+ORD0267,2025-07-16,West,Furniture,Desk,7,2543.06,0.1,Returning,16021.28
+ORD0268,2025-03-20,North,Sports,Yoga Mat,3,2843.95,0.1,New,7678.66
+ORD0269,2025-05-16,South,Electronics,Keyboard,7,13012.29,0.1,Returning,81977.43
+ORD0270,2025-08-22,West,Clothing,Jacket,1,944.91,0.15,New,803.17
+ORD0271,2025-09-05,South,Clothing,T-Shirt,1,3411.51,0.15,New,2899.78
+ORD0272,2025-02-02,West,Electronics,Monitor,1,2865.9,0.0,New,2865.9
+ORD0273,2025-01-14,West,Electronics,Mouse,6,10780.13,0.1,Returning,58212.7
+ORD0274,2025-09-18,South,Clothing,Jeans,7,1731.66,0.0,New,12121.62
+ORD0275,2025-10-19,South,Home & Kitchen,Water Bottle,2,1132.81,0.0,Returning,2265.62
+ORD0276,2025-01-29,North,Home & Kitchen,Water Bottle,7,4648.89,0.0,Returning,32542.23
+ORD0277,2025-05-04,East,Sports,Yoga Mat,3,3016.64,0.0,Returning,9049.92
+ORD0278,2025-02-19,East,Clothing,Jeans,7,2519.33,0.1,New,15871.78
+ORD0279,2025-05-01,East,Clothing,T-Shirt,3,577.48,0.0,New,1732.44
+ORD0280,2025-07-19,South,Home & Kitchen,Cookware Set,4,4622.42,0.05,Returning,17565.2
+ORD0281,2025-12-31,North,Sports,Dumbbells,4,2831.82,0.1,Returning,10194.55
+ORD0282,2025-12-03,West,Clothing,Jacket,4,1879.22,0.05,Returning,7141.04
+ORD0283,2025-08-24,West,Electronics,Keyboard,2,2437.23,0.0,Returning,4874.46
+ORD0284,2025-07-28,North,Electronics,Keyboard,2,3453.67,0.15,Returning,5871.24
+ORD0285,2025-02-25,West,Furniture,Desk,5,9951.3,0.1,Returning,44780.85
+ORD0286,2025-11-07,South,Home & Kitchen,Mixer,4,5993.26,0.0,New,23973.04
+ORD0287,2025-02-09,East,Furniture,Desk,5,21867.21,0.2,Returning,87468.84
+ORD0288,2025-03-16,South,Sports,Football,3,2831.29,0.15,Returning,7219.79
+ORD0289,2025-12-17,South,Sports,Football,7,4568.09,0.1,Returning,28778.97
+ORD0290,2025-07-04,East,Clothing,T-Shirt,2,2337.34,0.05,New,4440.95
+ORD0291,2025-12-26,North,Furniture,Desk,1,5368.6,0.15,Returning,4563.31
+ORD0292,2025-01-08,East,Clothing,Jeans,2,1312.36,0.0,New,2624.72
+ORD0293,2025-01-09,North,Electronics,Headphones,1,10805.71,0.0,Returning,10805.71
+ORD0294,2025-06-11,West,Clothing,Jacket,5,529.75,0.15,New,2251.44
+ORD0295,2025-11-24,East,Electronics,Mouse,7,10251.29,0.0,Returning,71759.03
+ORD0296,2025-12-14,South,Clothing,T-Shirt,7,1881.0,0.0,New,13167.0
+ORD0297,2025-05-12,South,Electronics,Mouse,1,6858.05,0.1,Returning,6172.24
+ORD0298,2025-10-11,North,Clothing,T-Shirt,5,2893.66,0.1,Returning,13021.47
+ORD0299,2025-07-29,South,Clothing,Jacket,2,436.17,0.0,New,872.34
+ORD0300,2025-12-04,North,Home & Kitchen,Cookware Set,4,1407.75,0.15,Returning,4786.35
+ORD0301,2025-03-13,West,Sports,Football,1,3909.89,0.2,Returning,3127.91
+ORD0302,2025-11-07,South,Electronics,Monitor,1,11357.85,0.1,Returning,10222.06
+ORD0303,2025-03-08,South,Electronics,Mouse,6,2090.3,0.1,Returning,11287.62
+ORD0304,2025-12-20,North,Furniture,Bookshelf,7,16529.05,0.05,New,109918.18
+ORD0305,2025-12-12,South,Clothing,Jeans,7,2649.27,0.0,Returning,18544.89
+ORD0306,2025-08-14,East,Electronics,Monitor,5,16738.73,0.0,Returning,83693.65
+ORD0307,2025-04-24,South,Electronics,Keyboard,1,12396.16,0.0,Returning,12396.16
+ORD0308,2025-05-03,West,Furniture,Office Chair,4,18836.84,0.05,Returning,71579.99
+ORD0309,2025-09-09,North,Sports,Yoga Mat,5,933.13,0.15,New,3965.8
+ORD0310,2025-01-18,South,Home & Kitchen,Cookware Set,1,1897.91,0.0,Returning,1897.91
+ORD0311,2025-04-22,East,Clothing,T-Shirt,2,402.54,0.1,New,724.57
+ORD0312,2025-04-01,West,Electronics,Keyboard,4,8652.61,0.05,New,32879.92
+ORD0313,2025-10-04,South,Clothing,T-Shirt,5,369.86,0.05,New,1756.84
+ORD0314,2025-12-10,West,Home & Kitchen,Cookware Set,6,378.05,0.1,New,2041.47
+ORD0315,2025-09-27,South,Home & Kitchen,Cookware Set,5,5592.69,0.2,Returning,22370.76
+ORD0316,2025-05-03,South,Electronics,Headphones,6,17787.54,0.0,Returning,106725.24
+ORD0317,2025-01-07,North,Furniture,Office Chair,4,21549.94,0.05,Returning,81889.77
+ORD0318,2025-07-03,West,Furniture,Office Chair,6,3359.39,0.05,Returning,19148.52
+ORD0319,2025-03-01,North,Sports,Dumbbells,2,2720.91,0.15,Returning,4625.55
+ORD0320,2025-07-13,South,Furniture,Desk,3,21518.8,0.0,New,64556.4
+ORD0321,2025-07-05,North,Furniture,Desk,2,15440.72,0.0,New,30881.44
+ORD0322,2025-09-19,West,Furniture,Bookshelf,3,11063.44,0.05,Returning,31530.8
+ORD0323,2025-07-26,North,Electronics,Headphones,7,6693.59,0.0,New,46855.13
+ORD0324,2025-02-17,East,Home & Kitchen,Cookware Set,3,4889.93,0.15,Returning,12469.32
+ORD0325,2025-02-10,South,Home & Kitchen,Water Bottle,7,2213.85,0.0,New,15496.95
+ORD0326,2025-01-06,North,Clothing,Jeans,3,3268.54,0.0,New,9805.62
+ORD0327,2025-04-10,South,Electronics,Keyboard,2,1364.33,0.0,Returning,2728.66
+ORD0328,2025-04-30,North,Furniture,Office Chair,3,3339.49,0.0,Returning,10018.47
+ORD0329,2025-12-07,West,Sports,Football,7,2719.41,0.05,Returning,18084.08
+ORD0330,2025-11-23,West,Home & Kitchen,Mixer,4,2747.51,0.1,New,9891.04
+ORD0331,2025-01-14,East,Sports,Football,1,4973.64,0.1,New,4476.28
+ORD0332,2025-10-19,North,Home & Kitchen,Mixer,6,3713.86,0.15,New,18940.69
+ORD0333,2025-12-21,South,Furniture,Bookshelf,1,10688.43,0.0,Returning,10688.43
+ORD0334,2025-11-23,South,Furniture,Desk,7,10232.4,0.0,Returning,71626.8
+ORD0335,2025-08-11,South,Electronics,Keyboard,4,3410.99,0.05,Returning,12961.76
+ORD0336,2025-12-20,West,Electronics,Mouse,5,14297.22,0.2,New,57188.88
+ORD0337,2025-04-26,West,Clothing,Jeans,2,2918.33,0.1,New,5252.99
+ORD0338,2025-09-21,West,Clothing,T-Shirt,3,488.32,0.1,New,1318.46
+ORD0339,2025-05-26,West,Clothing,T-Shirt,2,2421.36,0.0,New,4842.72
+ORD0340,2025-08-03,North,Furniture,Bookshelf,1,16220.28,0.05,New,15409.27
+ORD0341,2025-10-09,North,Sports,Dumbbells,4,4413.65,0.05,New,16771.87
+ORD0342,2025-12-12,South,Sports,Dumbbells,5,1847.7,0.05,Returning,8776.57
+ORD0343,2025-08-12,North,Electronics,Mouse,7,5156.89,0.1,Returning,32488.41
+ORD0344,2025-08-28,East,Furniture,Office Chair,5,3427.43,0.15,Returning,14566.58
+ORD0345,2025-06-20,North,Electronics,Monitor,3,7135.52,0.05,New,20336.23
+ORD0346,2025-05-21,East,Electronics,Keyboard,5,4187.7,0.0,Returning,20938.5
+ORD0347,2025-04-16,West,Furniture,Bookshelf,4,17323.14,0.05,Returning,65827.93
+ORD0348,2025-10-17,East,Sports,Football,7,670.11,0.05,Returning,4456.23
+ORD0349,2025-09-15,South,Clothing,T-Shirt,1,2098.43,0.0,Returning,2098.43
+ORD0350,2025-08-18,West,Sports,Dumbbells,5,3217.22,0.1,Returning,14477.49
+ORD0351,2025-10-01,South,Electronics,Headphones,4,4519.83,0.15,New,15367.42
+ORD0352,2025-09-14,West,Furniture,Desk,5,5689.37,0.0,Returning,28446.85
+ORD0353,2025-08-03,South,Electronics,Keyboard,3,17519.61,0.1,New,47302.95
+ORD0354,2025-09-23,East,Electronics,Mouse,1,1542.61,0.0,Returning,1542.61
+ORD0355,2025-02-03,South,Home & Kitchen,Mixer,4,3044.76,0.05,Returning,11570.09
+ORD0356,2025-11-24,South,Clothing,T-Shirt,5,3484.03,0.0,New,17420.15
+ORD0357,2025-10-28,West,Furniture,Office Chair,3,5078.01,0.1,New,13710.63
+ORD0358,2025-05-28,West,Electronics,Keyboard,1,2180.77,0.0,New,2180.77
+ORD0359,2025-02-26,West,Electronics,Headphones,5,9365.57,0.1,New,42145.06
+ORD0360,2025-09-09,East,Furniture,Desk,1,19298.85,0.05,New,18333.91
+ORD0361,2025-01-03,North,Electronics,Mouse,1,13319.55,0.0,Returning,13319.55
+ORD0362,2025-02-02,West,Home & Kitchen,Water Bottle,1,386.6,0.0,New,386.6
+ORD0363,2025-01-11,West,Clothing,Jacket,3,2845.68,0.05,New,8110.19
+ORD0364,2025-01-19,East,Home & Kitchen,Cookware Set,7,2996.48,0.15,Returning,17829.06
+ORD0365,2025-04-07,South,Furniture,Bookshelf,3,9014.91,0.05,New,25692.49
+ORD0366,2025-05-14,East,Electronics,Keyboard,7,3378.99,0.15,New,20104.99
+ORD0367,2025-07-28,North,Home & Kitchen,Water Bottle,6,1615.83,0.0,Returning,9694.98
+ORD0368,2025-01-17,East,Sports,Yoga Mat,2,3841.13,0.0,Returning,7682.26
+ORD0369,2025-12-21,North,Furniture,Desk,1,13701.38,0.2,New,10961.1
+ORD0370,2025-08-06,West,Clothing,T-Shirt,5,2835.27,0.1,Returning,12758.72
+ORD0371,2025-07-14,East,Electronics,Mouse,4,5915.49,0.0,Returning,23661.96
+ORD0372,2025-07-16,North,Furniture,Bookshelf,2,11485.87,0.0,Returning,22971.74
+ORD0373,2025-10-02,North,Electronics,Monitor,7,2930.11,0.0,Returning,20510.77
+ORD0374,2025-01-26,West,Home & Kitchen,Water Bottle,1,4228.12,0.1,Returning,3805.31
+ORD0375,2025-03-11,East,Home & Kitchen,Water Bottle,5,2104.16,0.1,Returning,9468.72
+ORD0376,2025-10-03,North,Clothing,Jacket,5,3492.54,0.0,Returning,17462.7
+ORD0377,2025-11-07,East,Clothing,Jacket,5,457.04,0.05,Returning,2170.94
+ORD0378,2025-08-23,South,Home & Kitchen,Cookware Set,2,4793.9,0.1,Returning,8629.02
+ORD0379,2025-07-22,North,Electronics,Headphones,2,9871.28,0.15,Returning,16781.18
+ORD0380,2025-09-25,East,Electronics,Mouse,1,15031.98,0.1,New,13528.78
+ORD0381,2025-04-07,North,Clothing,Jacket,7,2614.63,0.05,New,17387.29
+ORD0382,2025-05-17,North,Electronics,Keyboard,2,17039.27,0.05,New,32374.61
+ORD0383,2025-10-20,North,Furniture,Office Chair,6,9358.53,0.1,Returning,50536.06
+ORD0384,2025-05-27,West,Sports,Dumbbells,2,634.34,0.15,Returning,1078.38
+ORD0385,2025-03-14,East,Clothing,Jeans,2,2922.24,0.05,Returning,5552.26
+ORD0386,2025-04-12,West,Home & Kitchen,Mixer,6,556.62,0.15,Returning,2838.76
+ORD0387,2025-04-03,North,Clothing,Jacket,4,1643.25,0.0,Returning,6573.0
+ORD0388,2025-03-24,North,Electronics,Headphones,1,10236.16,0.0,Returning,10236.16
+ORD0389,2025-12-18,West,Furniture,Bookshelf,5,20200.21,0.0,Returning,101001.05
+ORD0390,2025-08-15,North,Clothing,Jacket,4,2345.48,0.1,Returning,8443.73
+ORD0391,2025-10-22,South,Clothing,T-Shirt,6,1507.3,0.0,Returning,9043.8
+ORD0392,2025-04-02,West,Furniture,Desk,6,12314.67,0.05,New,70193.62
+ORD0393,2025-02-09,West,Furniture,Bookshelf,3,12637.84,0.05,New,36017.84
+ORD0394,2025-01-10,North,Home & Kitchen,Cookware Set,7,1758.73,0.05,Returning,11695.55
+ORD0395,2025-04-28,North,Home & Kitchen,Mixer,6,3220.3,0.1,New,17389.62
+ORD0396,2025-12-30,West,Home & Kitchen,Cookware Set,1,340.87,0.1,Returning,306.78
+ORD0397,2025-12-06,West,Clothing,T-Shirt,5,2529.52,0.15,New,10750.46
+ORD0398,2025-01-29,South,Home & Kitchen,Mixer,3,1369.11,0.0,New,4107.33
+ORD0399,2025-08-21,East,Electronics,Headphones,4,7720.78,0.1,New,27794.81
+ORD0400,2025-11-30,West,Furniture,Bookshelf,6,3319.06,0.05,Returning,18918.64
+ORD0401,2025-06-29,North,Furniture,Bookshelf,5,10863.28,0.1,Returning,48884.76
+ORD0402,2025-09-01,West,Electronics,Headphones,6,6841.03,0.15,Returning,34889.25
+ORD0403,2025-05-18,West,Home & Kitchen,Mixer,2,3091.99,0.0,Returning,6183.98
+ORD0404,2025-12-17,East,Sports,Dumbbells,7,1450.35,0.15,Returning,8629.58
+ORD0405,2025-12-29,South,Clothing,Jeans,3,1223.37,0.0,Returning,3670.11
+ORD0406,2025-07-10,North,Clothing,T-Shirt,5,1671.5,0.05,Returning,7939.62
+ORD0407,2025-04-15,South,Electronics,Mouse,6,13871.74,0.1,Returning,74907.4
+ORD0408,2025-10-19,West,Home & Kitchen,Water Bottle,7,4071.33,0.15,Returning,24224.41
+ORD0409,2025-03-18,East,Home & Kitchen,Cookware Set,6,2854.0,0.15,New,14555.4
+ORD0410,2025-11-03,North,Electronics,Keyboard,3,7620.71,0.05,Returning,21719.02
+ORD0411,2025-05-23,East,Home & Kitchen,Cookware Set,7,653.16,0.1,Returning,4114.91
+ORD0412,2025-06-22,South,Furniture,Desk,4,13430.98,0.05,Returning,51037.72
+ORD0413,2025-04-10,East,Home & Kitchen,Mixer,3,4853.32,0.15,New,12375.97
+ORD0414,2025-03-29,South,Home & Kitchen,Mixer,3,4110.57,0.0,Returning,12331.71
+ORD0415,2025-03-07,West,Furniture,Office Chair,7,21732.36,0.15,New,129307.54
+ORD0416,2025-11-14,South,Furniture,Office Chair,7,15619.42,0.05,Returning,103869.14
+ORD0417,2025-05-09,East,Home & Kitchen,Mixer,4,5381.78,0.0,Returning,21527.12
+ORD0418,2025-04-02,North,Electronics,Headphones,3,3199.38,0.15,Returning,8158.42
+ORD0419,2025-12-03,South,Sports,Football,1,2959.84,0.05,Returning,2811.85
+ORD0420,2025-09-28,South,Electronics,Monitor,2,14296.99,0.0,Returning,28593.98
+ORD0421,2025-07-21,South,Electronics,Mouse,3,10346.73,0.0,New,31040.19
+ORD0422,2025-09-15,West,Clothing,T-Shirt,2,2140.94,0.0,New,4281.88
+ORD0423,2025-10-10,South,Home & Kitchen,Water Bottle,3,4750.88,0.0,New,14252.64
+ORD0424,2025-09-22,West,Electronics,Headphones,1,15203.0,0.0,Returning,15203.0
+ORD0425,2025-06-09,West,Sports,Football,5,3501.1,0.05,New,16630.22
+ORD0426,2025-01-27,East,Furniture,Desk,1,20868.51,0.05,Returning,19825.08
+ORD0427,2025-02-26,West,Sports,Yoga Mat,2,4077.76,0.15,New,6932.19
+ORD0428,2025-07-07,North,Clothing,T-Shirt,4,1131.18,0.0,New,4524.72
+ORD0429,2025-03-29,South,Clothing,T-Shirt,3,993.23,0.1,Returning,2681.72
+ORD0430,2025-11-02,West,Furniture,Bookshelf,4,3040.36,0.1,Returning,10945.3
+ORD0431,2025-10-02,West,Clothing,Jeans,5,1430.53,0.1,Returning,6437.38
+ORD0432,2025-08-06,South,Electronics,Monitor,4,2847.22,0.0,Returning,11388.88
+ORD0433,2025-03-17,North,Electronics,Monitor,2,1573.38,0.15,New,2674.75
+ORD0434,2025-04-14,West,Clothing,Jacket,4,2209.52,0.05,New,8396.18
+ORD0435,2025-12-06,South,Home & Kitchen,Cookware Set,1,5746.2,0.2,New,4596.96
+ORD0436,2025-09-26,South,Home & Kitchen,Water Bottle,4,1526.24,0.05,Returning,5799.71
+ORD0437,2025-07-10,North,Home & Kitchen,Cookware Set,5,3986.51,0.0,Returning,19932.55
+ORD0438,2025-06-09,East,Clothing,Jeans,4,1085.14,0.0,New,4340.56
+ORD0439,2025-04-12,West,Electronics,Headphones,6,7275.27,0.05,New,41469.04
+ORD0440,2025-12-09,East,Home & Kitchen,Cookware Set,2,4049.99,0.05,Returning,7694.98
+ORD0441,2025-06-01,North,Furniture,Bookshelf,4,8013.31,0.0,Returning,32053.24
+ORD0442,2025-12-06,South,Clothing,Jeans,3,415.91,0.1,New,1122.96
+ORD0443,2025-02-22,South,Electronics,Monitor,1,4528.86,0.0,New,4528.86
+ORD0444,2025-02-04,South,Electronics,Keyboard,2,10254.38,0.0,New,20508.76
+ORD0445,2025-03-12,West,Electronics,Keyboard,7,2662.9,0.0,Returning,18640.3
+ORD0446,2025-12-27,North,Clothing,T-Shirt,4,583.0,0.2,Returning,1865.6
+ORD0447,2025-06-06,South,Furniture,Office Chair,3,20590.49,0.0,Returning,61771.47
+ORD0448,2025-01-22,East,Sports,Dumbbells,5,4645.18,0.1,New,20903.31
+ORD0449,2025-10-28,West,Clothing,T-Shirt,5,1759.99,0.0,New,8799.95
+ORD0450,2025-12-31,East,Home & Kitchen,Mixer,6,293.03,0.0,New,1758.18
+ORD0451,2025-05-05,East,Clothing,T-Shirt,5,2182.07,0.05,New,10364.83
+ORD0452,2025-11-18,South,Clothing,Jacket,6,2433.87,0.05,New,13873.06
+ORD0453,2025-02-17,North,Electronics,Mouse,1,17769.97,0.0,New,17769.97
+ORD0454,2025-04-29,West,Furniture,Bookshelf,1,17866.19,0.2,New,14292.95
+ORD0455,2025-03-13,North,Home & Kitchen,Mixer,2,5501.94,0.05,New,10453.69
+ORD0456,2025-11-30,North,Electronics,Keyboard,5,14512.91,0.2,Returning,58051.64
+ORD0457,2025-02-27,North,Electronics,Monitor,4,6311.82,0.0,Returning,25247.28
+ORD0458,2025-02-16,West,Home & Kitchen,Cookware Set,2,5600.92,0.05,Returning,10641.75
+ORD0459,2025-10-30,North,Home & Kitchen,Mixer,6,5281.82,0.1,Returning,28521.83
+ORD0460,2025-03-30,North,Electronics,Keyboard,6,1844.16,0.05,Returning,10511.71
+ORD0461,2025-11-13,South,Home & Kitchen,Water Bottle,6,2029.88,0.05,Returning,11570.32
+ORD0462,2025-12-24,East,Electronics,Mouse,6,2486.97,0.15,New,12683.55
+ORD0463,2025-07-14,North,Home & Kitchen,Mixer,1,4702.9,0.1,Returning,4232.61
+ORD0464,2025-11-21,North,Furniture,Office Chair,3,17122.5,0.1,Returning,46230.75
+ORD0465,2025-05-26,East,Sports,Yoga Mat,1,1900.35,0.0,Returning,1900.35
+ORD0466,2025-04-25,West,Clothing,Jeans,2,752.13,0.0,Returning,1504.26
+ORD0467,2025-05-20,West,Furniture,Desk,6,2821.38,0.0,Returning,16928.28
+ORD0468,2025-01-02,South,Clothing,T-Shirt,7,889.79,0.1,Returning,5605.68
+ORD0469,2025-03-06,East,Home & Kitchen,Cookware Set,4,4559.71,0.2,Returning,14591.07
+ORD0470,2025-11-20,West,Electronics,Keyboard,2,2477.77,0.1,Returning,4459.99
+ORD0471,2025-07-04,East,Clothing,Jeans,5,785.32,0.0,Returning,3926.6
+ORD0472,2025-11-19,South,Electronics,Keyboard,2,7231.46,0.05,New,13739.77
+ORD0473,2025-01-26,East,Home & Kitchen,Mixer,4,343.48,0.2,Returning,1099.14
+ORD0474,2025-05-04,North,Sports,Dumbbells,5,3210.41,0.1,New,14446.84
+ORD0475,2025-07-16,North,Electronics,Headphones,5,14231.81,0.1,Returning,64043.14
+ORD0476,2025-12-02,West,Clothing,T-Shirt,6,3099.43,0.15,Returning,15807.09
+ORD0477,2025-08-14,North,Clothing,Jacket,1,567.4,0.05,Returning,539.03
+ORD0478,2025-12-17,East,Electronics,Keyboard,1,13886.43,0.1,New,12497.79
+ORD0479,2025-09-06,East,Clothing,Jeans,2,3300.66,0.0,Returning,6601.32
+ORD0480,2025-08-19,North,Clothing,T-Shirt,4,810.38,0.1,New,2917.37
+ORD0481,2025-01-23,North,Electronics,Monitor,3,6497.52,0.05,Returning,18517.93
+ORD0482,2025-09-09,West,Electronics,Headphones,5,17035.89,0.05,New,80920.48
+ORD0483,2025-07-25,West,Electronics,Keyboard,6,13889.57,0.15,New,70836.81
+ORD0484,2025-03-05,West,Furniture,Office Chair,5,21918.32,0.0,Returning,109591.6
+ORD0485,2025-05-03,East,Home & Kitchen,Mixer,5,5186.0,0.0,New,25930.0
+ORD0486,2025-03-09,North,Electronics,Headphones,3,6506.09,0.0,Returning,19518.27
+ORD0487,2025-01-20,East,Furniture,Bookshelf,7,21269.52,0.0,Returning,148886.64
+ORD0488,2025-03-10,West,Electronics,Mouse,1,2118.18,0.1,Returning,1906.36
+ORD0489,2025-02-16,South,Home & Kitchen,Cookware Set,7,4148.57,0.0,New,29039.99
+ORD0490,2025-12-09,North,Clothing,Jacket,5,1123.46,0.05,New,5336.44
+ORD0491,2025-07-30,North,Electronics,Monitor,6,15662.08,0.0,New,93972.48
+ORD0492,2025-09-13,East,Clothing,T-Shirt,4,2373.21,0.05,New,9018.2
+ORD0493,2025-10-24,East,Electronics,Mouse,7,13897.93,0.15,Returning,82692.68
+ORD0494,2025-01-02,North,Furniture,Bookshelf,1,2782.71,0.0,New,2782.71
+ORD0495,2025-11-08,South,Home & Kitchen,Water Bottle,6,3643.73,0.0,New,21862.38
+ORD0496,2025-05-01,West,Furniture,Bookshelf,1,7122.03,0.15,Returning,6053.73
+ORD0497,2025-04-18,South,Electronics,Monitor,6,12447.43,0.0,Returning,74684.58
+ORD0498,2025-07-09,North,Electronics,Mouse,1,2518.83,0.0,Returning,2518.83
+ORD0499,2025-12-12,West,Furniture,Office Chair,3,8102.65,0.15,New,20661.76
+ORD0500,2025-07-23,West,Electronics,Mouse,7,6743.24,0.15,Returning,40122.28
+ORD0501,2025-09-04,West,Sports,Football,4,1646.23,0.05,New,6255.67
+ORD0502,2025-07-26,East,Furniture,Office Chair,2,2380.99,0.0,New,4761.98
+ORD0503,2025-12-24,West,Clothing,Jacket,3,1029.85,0.0,New,3089.55
+ORD0504,2025-08-06,East,Sports,Dumbbells,3,3351.64,0.1,Returning,9049.43
+ORD0505,2025-08-20,North,Clothing,Jeans,4,1336.25,0.0,New,5345.0
+ORD0506,2025-03-11,South,Electronics,Mouse,2,11786.17,0.1,New,21215.11
+ORD0507,2025-07-19,South,Clothing,Jeans,3,2605.47,0.1,Returning,7034.77
+ORD0508,2025-07-01,West,Home & Kitchen,Cookware Set,7,3005.53,0.0,New,21038.71
+ORD0509,2025-12-03,North,Electronics,Monitor,7,13161.46,0.0,Returning,92130.22
+ORD0510,2025-12-07,East,Electronics,Headphones,1,16914.79,0.05,New,16069.05
+ORD0511,2025-10-16,North,Electronics,Headphones,6,2550.72,0.0,Returning,15304.32
+ORD0512,2025-10-20,South,Home & Kitchen,Mixer,1,3724.77,0.15,Returning,3166.05
+ORD0513,2025-09-11,North,Clothing,Jeans,2,3321.27,0.0,New,6642.54
+ORD0514,2025-07-11,South,Furniture,Office Chair,3,19604.1,0.0,New,58812.3
+ORD0515,2025-06-14,West,Home & Kitchen,Cookware Set,2,845.18,0.05,Returning,1605.84
+ORD0516,2025-05-24,North,Home & Kitchen,Water Bottle,3,438.99,0.0,New,1316.97
+ORD0517,2025-07-25,East,Clothing,T-Shirt,3,2093.92,0.05,New,5967.67
+ORD0518,2025-08-02,South,Furniture,Bookshelf,2,13726.87,0.0,Returning,27453.74
+ORD0519,2025-07-12,West,Clothing,Jeans,1,1711.33,0.15,New,1454.63
+ORD0520,2025-06-04,South,Clothing,T-Shirt,6,332.41,0.15,Returning,1695.29
+ORD0521,2025-07-08,East,Furniture,Office Chair,7,20408.99,0.1,Returning,128576.64
+ORD0522,2025-06-10,East,Sports,Yoga Mat,4,1635.16,0.0,Returning,6540.64
+ORD0523,2025-09-24,East,Electronics,Headphones,6,16743.2,0.0,Returning,100459.2
+ORD0524,2025-11-01,West,Electronics,Headphones,4,9802.89,0.15,Returning,33329.83
+ORD0525,2025-10-15,North,Clothing,Jeans,2,1919.12,0.0,Returning,3838.24
+ORD0526,2025-04-20,West,Electronics,Mouse,4,4791.78,0.1,New,17250.41
+ORD0527,2025-02-10,North,Home & Kitchen,Mixer,7,2218.05,0.1,Returning,13973.72
+ORD0528,2025-11-17,East,Electronics,Keyboard,7,16697.78,0.15,Returning,99351.79
+ORD0529,2025-12-28,South,Sports,Football,2,749.36,0.1,New,1348.85
+ORD0530,2025-04-07,South,Clothing,T-Shirt,3,901.15,0.0,Returning,2703.45
+ORD0531,2025-12-09,East,Furniture,Office Chair,5,17009.21,0.0,Returning,85046.05
+ORD0532,2025-01-13,West,Electronics,Monitor,1,17842.89,0.1,Returning,16058.6
+ORD0533,2025-05-08,South,Electronics,Headphones,6,8559.71,0.1,Returning,46222.43
+ORD0534,2025-08-15,West,Home & Kitchen,Mixer,1,1982.22,0.0,Returning,1982.22
+ORD0535,2025-09-09,West,Clothing,Jacket,4,1610.41,0.1,Returning,5797.48
+ORD0536,2025-07-25,West,Sports,Football,3,2433.88,0.1,Returning,6571.48
+ORD0537,2025-10-16,South,Home & Kitchen,Mixer,6,4139.26,0.1,Returning,22352.0
+ORD0538,2025-11-09,West,Electronics,Headphones,7,11292.42,0.0,Returning,79046.94
+ORD0539,2025-12-21,North,Home & Kitchen,Cookware Set,3,5161.66,0.05,Returning,14710.73
+ORD0540,2025-07-26,East,Home & Kitchen,Cookware Set,1,3105.21,0.15,New,2639.43
+ORD0541,2025-06-12,West,Sports,Football,5,4944.52,0.2,Returning,19778.08
+ORD0542,2025-07-18,West,Electronics,Monitor,1,13964.48,0.05,New,13266.26
+ORD0543,2025-12-07,West,Furniture,Bookshelf,4,10362.67,0.0,Returning,41450.68
+ORD0544,2025-01-07,East,Electronics,Headphones,7,8943.78,0.0,Returning,62606.46
+ORD0545,2025-05-05,South,Electronics,Mouse,5,3456.45,0.0,Returning,17282.25
+ORD0546,2025-05-01,West,Electronics,Monitor,1,8900.38,0.05,New,8455.36
+ORD0547,2025-02-23,South,Home & Kitchen,Cookware Set,7,3430.89,0.0,Returning,24016.23
+ORD0548,2025-12-04,East,Clothing,Jeans,4,2292.61,0.05,Returning,8711.92
+ORD0549,2025-10-14,South,Sports,Dumbbells,2,4877.4,0.15,Returning,8291.58
+ORD0550,2025-10-06,South,Furniture,Bookshelf,2,4379.23,0.0,New,8758.46
+ORD0551,2025-02-26,West,Furniture,Office Chair,6,6761.86,0.1,Returning,36514.04
+ORD0552,2025-09-21,South,Furniture,Office Chair,5,20260.34,0.15,Returning,86106.44
+ORD0553,2025-03-25,North,Home & Kitchen,Cookware Set,3,4872.33,0.0,New,14616.99
+ORD0554,2025-11-14,South,Sports,Dumbbells,4,4461.1,0.2,New,14275.52
+ORD0555,2025-10-09,North,Electronics,Headphones,4,4584.83,0.15,New,15588.42
+ORD0556,2025-03-24,East,Electronics,Headphones,2,12084.02,0.0,Returning,24168.04
+ORD0557,2025-11-04,West,Clothing,Jeans,5,1469.61,0.0,Returning,7348.05
+ORD0558,2025-06-14,East,Furniture,Office Chair,6,18628.02,0.1,Returning,100591.31
+ORD0559,2025-10-03,East,Home & Kitchen,Water Bottle,5,1341.17,0.0,Returning,6705.85
+ORD0560,2025-01-23,West,Clothing,Jacket,3,2930.81,0.0,Returning,8792.43
+ORD0561,2025-06-10,West,Furniture,Bookshelf,1,18224.58,0.0,New,18224.58
+ORD0562,2025-04-01,North,Furniture,Office Chair,2,19113.16,0.0,New,38226.32
+ORD0563,2025-11-21,West,Electronics,Monitor,3,2226.5,0.0,New,6679.5
+ORD0564,2025-11-28,North,Electronics,Keyboard,7,16108.25,0.1,Returning,101481.98
+ORD0565,2025-11-19,East,Electronics,Keyboard,1,7335.97,0.1,New,6602.37
+ORD0566,2025-10-16,East,Furniture,Desk,7,19505.45,0.0,New,136538.15
+ORD0567,2025-09-23,North,Electronics,Headphones,6,3741.26,0.05,New,21325.18
+ORD0568,2025-12-14,North,Furniture,Desk,3,14110.28,0.05,Returning,40214.3
+ORD0569,2025-04-14,North,Electronics,Monitor,4,13733.55,0.05,New,52187.49
+ORD0570,2025-11-19,East,Clothing,T-Shirt,6,1081.0,0.1,New,5837.4
+ORD0571,2025-11-18,West,Electronics,Mouse,3,12325.6,0.05,Returning,35127.96
+ORD0572,2025-10-03,East,Sports,Dumbbells,5,4320.02,0.15,Returning,18360.09
+ORD0573,2025-09-04,South,Sports,Football,4,3336.12,0.05,Returning,12677.26
+ORD0574,2025-12-18,West,Home & Kitchen,Water Bottle,6,1681.29,0.1,Returning,9078.97
+ORD0575,2025-09-24,North,Sports,Football,5,3064.1,0.0,Returning,15320.5
+ORD0576,2025-06-11,West,Home & Kitchen,Water Bottle,6,1464.36,0.0,Returning,8786.16
+ORD0577,2025-10-06,North,Electronics,Headphones,6,5102.94,0.15,New,26024.99
+ORD0578,2025-06-14,South,Clothing,T-Shirt,6,2704.2,0.05,New,15413.94
+ORD0579,2025-06-24,North,Furniture,Office Chair,7,4884.11,0.2,New,27351.02
+ORD0580,2025-10-16,East,Electronics,Keyboard,3,9615.91,0.0,Returning,28847.73
+ORD0581,2025-06-21,South,Sports,Football,7,3531.15,0.15,Returning,21010.34
+ORD0582,2025-10-04,West,Electronics,Monitor,6,17343.53,0.0,Returning,104061.18
+ORD0583,2025-07-12,South,Electronics,Keyboard,4,16759.16,0.2,Returning,53629.31
+ORD0584,2025-04-29,East,Electronics,Headphones,5,1200.61,0.0,Returning,6003.05
+ORD0585,2025-02-17,North,Clothing,Jeans,6,1628.9,0.0,New,9773.4
+ORD0586,2025-01-08,East,Electronics,Headphones,2,3508.1,0.1,Returning,6314.58
+ORD0587,2025-03-22,South,Home & Kitchen,Water Bottle,4,1040.95,0.1,Returning,3747.42
+ORD0588,2025-04-13,West,Furniture,Office Chair,1,15559.52,0.15,Returning,13225.59
+ORD0589,2025-04-15,South,Clothing,Jeans,1,2613.39,0.05,Returning,2482.72
+ORD0590,2025-06-23,South,Clothing,T-Shirt,5,2286.95,0.05,New,10863.01
+ORD0591,2025-06-09,East,Clothing,Jacket,5,427.81,0.1,Returning,1925.15
+ORD0592,2025-08-10,East,Home & Kitchen,Mixer,1,5764.84,0.05,Returning,5476.6
+ORD0593,2025-12-09,South,Electronics,Headphones,2,8093.09,0.0,Returning,16186.18
+ORD0594,2025-10-21,North,Electronics,Keyboard,3,8325.63,0.1,Returning,22479.2
+ORD0595,2025-07-22,East,Electronics,Monitor,5,6711.81,0.15,New,28525.19
+ORD0596,2025-06-20,North,Clothing,T-Shirt,5,1486.01,0.0,New,7430.05
+ORD0597,2025-02-22,South,Sports,Football,3,408.88,0.2,Returning,981.31
+ORD0598,2025-09-18,North,Sports,Yoga Mat,4,2532.68,0.2,Returning,8104.58
+ORD0599,2025-11-04,South,Home & Kitchen,Water Bottle,7,1714.94,0.0,Returning,12004.58
+ORD0600,2025-08-15,North,Sports,Football,7,1830.89,0.05,New,12175.42
+ORD0006,2025-06-21,South,Furniture,Bookshelf,1,5384.16,0.0,New,5384.16
+ORD0019,2025-02-04,North,Home & Kitchen,Cookware Set,4,3857.03,0.1,Returning,13885.31
